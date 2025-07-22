@@ -1,3 +1,33 @@
 body {
-    background-color: #0a0d13;
+  background-color: #0a0d13;
+  color: white;
+}
+
+path {
+  fill: #f46e6e;
+}
+
+.north-map svg {
+  width: 100%;
+  max-width: 650px;
+  height: auto;
+}
+
+.north-map {
+    transform: translateY(200px);
+}
+
+.province {
+    transition: all 0.2s ease;
+    cursor: pointer;
+    isolation: isolate;
+    pointer-events: visiblePainted;
+}
+
+.province:hover {
+    fill: #ffcc00;
+    transform: scale(1.1);
+    transform-box: fill-box;
+    transform-origin: center;
+    filter: drop-shadow(0 0 5px rgba(0,0,0,0.5));
 }
