@@ -92,6 +92,10 @@ path {
         flex: 0 0 100%;
         max-width: 100%;
     }
+
+    .part-3 {
+        margin-top: 190px;
+    }
 }
 
 .province-label {
@@ -113,4 +117,12 @@ path {
 
 .hai-phong {
     font-size: 5px;
+}
+
+.part-1 {
+    margin-top: -70px;
+}
+
+.part-2 {
+    margin-top: 190px !important;
 }
