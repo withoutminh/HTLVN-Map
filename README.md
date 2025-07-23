@@ -1,2 +1,2 @@
 # HTLVN-Map
-new map for HTLVN's website :D
+cần fix info box trên giao diện tablet
