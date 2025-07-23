@@ -1,3 +1,7 @@
+body {
+    background-color: black;
+}
+
 .btn-zoom {
     transition: transform 0.2s, background-color 0.2s, box-shadow 0.2s;
 }
@@ -10,4 +14,22 @@
 
 a {
     text-decoration: none;
+}
+
+.color-cycle {
+    animation: colorChange 3s infinite linear;
+}
+
+@keyframes colorChange {
+    0%   { color: red; }
+    10%  { color: orange; }
+    20%  { color: yellow; }
+    30%  { color: lime; }
+    40%  { color: green; }
+    50%  { color: turquoise; }
+    60%  { color: cyan; }
+    70%  { color: blue; }
+    80%  { color: violet; }
+    90%  { color: magenta; }
+    100% { color: red; } 
 }
