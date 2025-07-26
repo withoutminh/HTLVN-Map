@@ -14,7 +14,7 @@ Images of the province
 ## Features
 
 - Responsive for mobile users   
-- Detailed information page for each province
+- Detailed information page for each province ( not on this website )
 - Images of each province
 
 
