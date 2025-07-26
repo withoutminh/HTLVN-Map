@@ -23,9 +23,10 @@ Images of the province
 
 - [Nhat Minh](https://github.com/withoutminh)
 - [Nguyen Khang](https://github.com/Yukari-Setsuka)
+- [ChatGPT](https://chatgpt.com)
 
 
 ## Demo
 
-https://htlvn-map.netlify.app/
+https://htlvn-map.netlify.app
 
