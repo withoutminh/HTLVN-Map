@@ -105,7 +105,7 @@ path {
 
 .province-label {
     fill: white;
-    font-size: 6px;
+    font-size: 10px;
     pointer-events: none;
     text-shadow: 1px 1px 3px black;
     isolation: isolate;
@@ -118,4 +118,12 @@ path {
 
 .part-2 {
     margin-top: 190px !important;
+}
+
+.thanh-hoa {
+    font-size: 8px;
+}
+
+.ha-tinh {
+    font-size: 8px;
 }
