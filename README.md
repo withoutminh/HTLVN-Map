@@ -1,8 +1,8 @@
 
 # HTLVN's Map
 
-The map of Vietnam's provinces across the North, Central, and South regions on the HTLVN website.
-- Note: This is not the main page of the website. It is only the province selection page — a part of the HTLVN website.
+The map of Vietnam's provinces across the North, Central, and South regions on the HTLVN website.<br>
+Note: This is not the main page of the website. It is only the province selection page — a part of the HTLVN website.
 
 ## Screenshots
 
